@@ -8,10 +8,7 @@ if BMI<=20:
     print("You are under weight please take healthy diet")
 elif BMI<=23:
     print("You have an average BMI")
-elif BMI<=25:
+elif BMI<=26:
     print("You have an ideal weight")
 elif BMI>26:
     print("You are over weight please do exercise")
-
-
-
